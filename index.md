@@ -35,5 +35,6 @@ console.log(greeting);
 - [x] Add headers to the file
 - [x] Include an image
 - [x] Add code examples
-- [ ] Create a task list
+- [x] Create a task list
 - [ ] Continue learning
+
