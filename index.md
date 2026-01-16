@@ -9,3 +9,8 @@ Here is some text under the h2 header.
 #### This is a Level 4 Header
 
 Markdown is fun and useful for organizing information!
+
+## GitHub Mascot
+
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
