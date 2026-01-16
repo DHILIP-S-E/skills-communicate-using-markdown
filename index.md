@@ -26,3 +26,14 @@ console.log(greeting);
 ```
 
 
+
+
+
+## My Learning Tasks
+
+- [ ] Learn Markdown basics
+- [x] Add headers to the file
+- [x] Include an image
+- [x] Add code examples
+- [ ] Create a task list
+- [ ] Continue learning
