@@ -14,3 +14,15 @@ Markdown is fun and useful for organizing information!
 
 ![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Code Examples
+
+```bash
+git init
+```
+
+```javascript
+var greeting = "Hello, World!";
+console.log(greeting);
+```
+
+
